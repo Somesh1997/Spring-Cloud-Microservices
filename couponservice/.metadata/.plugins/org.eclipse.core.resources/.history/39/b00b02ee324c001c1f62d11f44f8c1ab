@@ -1,0 +1,5 @@
+package com.somesh.springcloud.repos;
+
+public class CouponRepo {
+
+}

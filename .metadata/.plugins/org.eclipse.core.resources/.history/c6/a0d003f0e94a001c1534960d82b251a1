@@ -1,0 +1,5 @@
+package com.somesh.springcloud.model;
+
+public class Product {
+
+}
